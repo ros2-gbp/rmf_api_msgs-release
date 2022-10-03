@@ -1,3 +1,26 @@
+## rmf_api_msgs (humble) - 0.0.1-1
+
+The packages in the `rmf_api_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble -e rmf_api_msgs` on `Mon, 03 Oct 2022 16:24:50 -0000`
+
+The `rmf_api_msgs` package was released.
+
+Version of package(s) in repository `rmf_api_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_api_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmf_api_msgs (rolling) - 0.0.1-4
 
 The packages in the `rmf_api_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling -e rmf_api_msgs` on `Mon, 03 Oct 2022 16:21:08 -0000`
