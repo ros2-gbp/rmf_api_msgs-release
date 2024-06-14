@@ -1,0 +1,12 @@
+Source: ros-jazzy-rmf-api-msgs
+Section: misc
+Priority: optional
+Maintainer: Grey <grey@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), nlohmann-json3-dev, python3-jinja2, python3-jsonschema, ros-jazzy-ament-cmake, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-rmf-api-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, nlohmann-json3-dev, python3-jinja2, python3-jsonschema, ros-jazzy-ros-workspace
+Description: RMF API msgs definition
