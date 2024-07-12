@@ -2,6 +2,12 @@
 Changelog for package rmf_api_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2024-07-11)
+------------------
+* Add mutex group information to robot_state (`#51 <https://github.com/open-rmf/rmf_api_msgs/issues/51>`_)
+* Introduce schemas for robot commission request (`#48 <https://github.com/open-rmf/rmf_api_msgs/issues/48>`_)
+* Contributors: Grey
+
 0.1.1 (2023-06-30)
 ------------------
 * Added ``unix_millis_request_time`` and ``requester`` fields to ``task_request.json`` and ``task_state.json`` (`#35 <https://github.com/open-rmf/rmf_api_msgs/pull/35>`_)
