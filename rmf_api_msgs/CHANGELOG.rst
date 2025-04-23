@@ -2,16 +2,24 @@
 Changelog for package rmf_api_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.1.2 (2024-07-11)
+0.4.0 (2024-06-12)
 ------------------
-* Add mutex group information to robot_state (`#51 <https://github.com/open-rmf/rmf_api_msgs/issues/51>`_)
-* Introduce schemas for robot commission request (`#48 <https://github.com/open-rmf/rmf_api_msgs/issues/48>`_)
-* Contributors: Grey
 
-0.1.1 (2023-06-30)
+0.3.0 (2024-06-01)
+------------------
+* use CONFIGURE_DEPENDS (`#53 <https://github.com/open-rmf/rmf_api_msgs/pull/53>`_)
+* Add mutex group information to robot_state (`#49 <https://github.com/open-rmf/rmf_api_msgs/pull/49>`_)
+* Introduce schemas for robot commission request (`#48 <https://github.com/open-rmf/rmf_api_msgs/pull/48>`_)
+* fleet_name in task_request (`#47 <https://github.com/open-rmf/rmf_api_msgs/pull/47>`_)
+* Contributors: Charly Wu, Grey, Teo Koon Peng
+
+0.2.1 (2023-06-30)
 ------------------
 * Added ``unix_millis_request_time`` and ``requester`` fields to ``task_request.json`` and ``task_state.json`` (`#35 <https://github.com/open-rmf/rmf_api_msgs/pull/35>`_)
 * Contributors: Aaron Chong, César Rolón
+
+0.2.0 (2023-06-08)
+------------------
 
 0.1.0 (2023-06-06)
 ------------------
