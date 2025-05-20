@@ -1,3 +1,26 @@
+## rmf_api_msgs (kilted) - 0.5.0-1
+
+The packages in the `rmf_api_msgs` repository were released into the `kilted` distro by running `/usr/bin/bloom-release -r kilted rmf_api_msgs` on `Tue, 20 May 2025 18:28:48 -0000`
+
+The `rmf_api_msgs` package was released.
+
+Version of package(s) in repository `rmf_api_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_api_msgs
+- release repository: https://github.com/ros2-gbp/rmf_api_msgs-release.git
+- rosdistro version: `0.4.0-2`
+- old version: `0.4.0-2`
+- new version: `0.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rmf_api_msgs (rolling) - 0.5.0-1
 
 The packages in the `rmf_api_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling rmf_api_msgs` on `Mon, 12 May 2025 04:31:29 -0000`
